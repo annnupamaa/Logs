@@ -3,17 +3,4 @@
 2024-07-14T07:58:16.818Z [CLP-CDC] (info) producer.ts: Message 11706535377766559 published to replication-events-internal.
 2024-07-14T07:58:16.822Z [CLP-CDC] (info) producer.ts: Message 11784157447050496 published to replication-events-internal.
 2024-07-15T07:58:16.827Z [CLP-CDC] (info) gcpPubSub.ts: Time :: Mon Jul 15 2024 07:58:16 GMT+0000 (Coordinated Universal Time) Polling for message
-2024-07-15T07:58:16.827Z [CLP-CDC] (info) gcpPubSub.ts: Time :: Mon Jul 15 2024 07:58:16 GMT+0000 (Coordinated Universal Time) Polling for message
-2024-07-15T07:58:16.829Z [CLP-CDC] (info) producer.ts: Message 11785469860118381 published to replication-events-internal.
-2024-07-15T07:58:16.829Z [CLP-CDC] (info) gcpPubSub.ts: Time :: Mon Jul 15 2024 07:58:16 GMT+0000 (Coordinated Universal Time) Polling for message
-2024-07-15T07:58:16.827Z [CLP-CDC] (info) producer.ts: Message 11785252777746173 published to replication-events-internal.
-2024-07-15T07:58:16.833Z [CLP-CDC] (info) producer.ts: Message 11783309335536961 published to replication-events-internal. 
-2024-07-15T07:58:15.329Z [CLP-CDC] (info) producer.ts: Message 11498900426058124 published to replication-events-internal.
-2024-07-15T07:58:15.486Z [CLP-CDC] (info) gcpPubSub.ts: Time :: Mon Jul 15 2024 07:58:15 GMT+0000 (Coordinated Universal Time) Polling for message
-2024-07-15T07:58:18.041Z [CLP-CDC] (info) producer.ts: Message 11706546622878803 published to replication-events-internal.
-2024-07-15T07:58:18.042Z [CLP-CDC] (info) producer.ts: Message 11676244128679914 published to replication-events-internal.
-2024-07-15T07:58:18.045Z [CLP-CDC] (info) producer.ts: Message 11498909441475879 published to replication-events-internal.
-2024-07-15T07:58:18.057Z [CLP-CDC] (info) producer.ts: Message 11783733526822859 published to replication-events-internal.
-2024-07-15T07:58:18.054Z [CLP-CDC] (info) producer.ts: Message 11676347388844526 published to replication-events-internal.
-2024-07-15T07:58:18.058Z [CLP-CDC] (info) producer.ts: Message 11706674078439005 published to replication-events-internal.
-2024-07-15T07:58:18.063Z [CLP-CDC] (info) producer.ts: Message 11783309335539431 published to replication-events-internal.
+ 
